@@ -1,6 +1,6 @@
 Chani Halili - Personal Website
 
-Welcome to my personal website repository! This repository contains the source code and content for my personal website. Here you can find information about me, my skills, projects, and more.
+Welcome to my personal website repository!  Here you can find information about me, my skills, projects, and more.
 
 About Me
 
