@@ -1,6 +1,7 @@
 Chani Halili - Personal Website
 
 Welcome to my personal website repository! This repository contains the source code and content for my personal website. Here you can find information about me, my skills, projects, and more.
+
 About Me
 
     Name: Chani Halili
@@ -8,6 +9,7 @@ About Me
     Email: chani.ch7765@gmail.com
 
 I am a software engineering student at the Ministry of Education, specializing in computer science. Additionally, I am part of the high-tech track program called "Kama Tech" focusing on semiconductors.
+
 Skills
 
     Problem-solving
