@@ -1,4 +1,4 @@
-Chani Halili - Personal Website
+Hani Halili - Personal Website
 
 Welcome to my personal repository!  Here you can find information about me, my skills, projects, and more.
 
