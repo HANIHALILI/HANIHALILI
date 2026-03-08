@@ -1,4 +1,4 @@
-Hani Halili - Personal Website
+Hana Halili - Personal Website
 
 Welcome to my personal repository!  Here you can find information about me, my skills, projects, and more.
 
@@ -38,6 +38,6 @@ Done
 
 Contact
 
-Feel free to reach out to me via email at chani.ch7765@gmail.com or phone at 0534157756.
+Feel free to reach out to me via email at cHana.ch7765@gmail.com or phone at 0534157756.
 
 Thank you for visiting my GitHub repository!
